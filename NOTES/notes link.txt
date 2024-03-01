@@ -1,2 +1,0 @@
-Load Balancing - https://www.cloudflare.com/learning/performance/types-of-load-balancing-algorithms/
-
